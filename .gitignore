@@ -1,2 +1,4 @@
 archive/
 __pycache__
+stream_dataset/
+stream_segmentation.keras
